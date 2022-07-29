@@ -1,0 +1,4 @@
+app.module.ts file is like index.ts file. 
+Actual root file. 
+
+create own molule  "nest g module user"
